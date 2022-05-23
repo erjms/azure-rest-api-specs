@@ -7034,6 +7034,9 @@
           }
         ]
       },
+      "x-ms-mutability": [
+        "read"
+      ],
       "additionalProperties": false
     },
     "DistributionConfiguration": {
@@ -7365,6 +7368,9 @@
           }
         ]
       },
+      "x-ms-mutability": [
+        "read"
+      ],
       "additionalProperties": false
     },
     "EnvironmentContainer": {
@@ -7435,6 +7441,9 @@
           }
         ]
       },
+      "x-ms-mutability": [
+        "read"
+      ],
       "additionalProperties": false
     },
     "EnvironmentVersion": {
@@ -8143,6 +8152,9 @@
           }
         ]
       },
+      "x-ms-mutability": [
+        "read"
+      ],
       "additionalProperties": false
     },
     "JobType": {
